@@ -13,9 +13,9 @@ export default function Hero() {
         className="flex flex-col md:flex-row items-center justify-center w-full px-4 md:px-52 pb-4 md:pd-24 md:pt-32 pt-24 md:pb-24 mt-24 md:mt-0 z-10"
       >
         <div data-aos="fade-up" className="flex-1 md:text-left mt-10 md:mt-0">
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-4">
+          {/* <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-4">
             NUOL
-          </h1>
+          </h1> */}
           <p
             data-aos="fade-up"
             data-aos-delay="300"
@@ -23,12 +23,12 @@ export default function Hero() {
           >
             ທີມ Media ມະຫາວິທະຍາໄລແຫ່ງຊາດ
           </p>
-          <button
+          {/* <button
             type="button"
             className="text-gray-900 mt-4 bg-white hover:bg-blue-300 font-semibold rounded-full text-sm px-5 py-2.5 text-center "
           >
             Contact
-          </button>
+          </button> */}
         </div>
         <div
           data-aos="fade-up"

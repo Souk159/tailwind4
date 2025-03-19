@@ -27,12 +27,12 @@ export default function Navbar() {
             </a>
           ))}
         </nav>
-        <button
+        {/* <button
           type="button"
           className="text-gray-900 mt-4 bg-white hover:bg-blue-300 font-semibold rounded-full text-sm px-5 py-2.5 text-center "
         >
           Contact
-        </button>
+        </button> */}
       </div>
     </header>
   );
