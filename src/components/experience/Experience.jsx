@@ -1,5 +1,6 @@
 import React from "react";
-import Frontend from "../../assets/nuol3.jpg";
+import Frontend from "../../assets/team0.jpg";
+import team1 from "../../assets/team1.jpeg";
 export default function Experience() {
   return (
     <div>
@@ -50,7 +51,7 @@ export default function Experience() {
                 </div>
               </div>
               <div className="">
-                <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl">
+                <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl mr-2.5">
                   <img
                     src={Frontend}
                     alt=""
@@ -78,7 +79,7 @@ export default function Experience() {
                 </div>
               </div>
               <div className="">
-                <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl">
+                <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl mr-2.5">
                   <img
                     src={Frontend}
                     alt=""
@@ -176,12 +177,11 @@ export default function Experience() {
                   loading="lazy"
                 />
                 <div class="p-2">
-                  <h2 class="font-bold text-lg mb-2 ">Heading</h2>
+                  <h2 class="font-bold text-lg mb-2 ">ທ ຢອງຄຳ ພິມພົມມາ</h2>
 
-                  <p class="text-sm text-gray-600">
-                    Simple Yet Beautiful Card Design with TaiwlindCss. Subscribe
-                    to our Youtube channel for more ...
-                  </p>
+                  <p class="text-sm text-gray-600">ໜ້າທີ່ຮັບຜິດຊອບ: </p>
+                  <p class="text-sm text-gray-600">ຄະນະວິທະຍາສາດສັງຄົມ</p>
+                  <p class="text-sm text-gray-600">ສາຂາ </p>
                 </div>
 
                 <div class="m-2">
@@ -204,40 +204,13 @@ export default function Experience() {
                   loading="lazy"
                 />
                 <div class="p-2">
-                  <h2 class="font-bold text-lg mb-2 ">Heading</h2>
+                  <h2 class="font-bold text-lg mb-2 ">ນ ເພັດມະນີ ມົນທິສານ</h2>
 
+                  <p class="text-sm text-gray-600">ໜ້າທີ່ຮັບຜິດຊອບ: </p>
                   <p class="text-sm text-gray-600">
-                    Simple Yet Beautiful Card Design with TaiwlindCss. Subscribe
-                    to our Youtube channel for more ...
+                    ຄະນະເສດຖະສາດບໍລິຫານທຸລະກິດ
                   </p>
-                </div>
-
-                <div class="m-2">
-                  <a
-                    role="button"
-                    href="#"
-                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
-                  >
-                    Learn More
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div className="">
-              <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl mr-2.5">
-                <img
-                  src={Frontend}
-                  alt=""
-                  className="w-full h-60 object-cover rounded-lg sm:h-52 sm:col-span-2 lg:col-span-full"
-                  loading="lazy"
-                />
-                <div class="p-2">
-                  <h2 class="font-bold text-lg mb-2 ">Heading</h2>
-
-                  <p class="text-sm text-gray-600">
-                    Simple Yet Beautiful Card Design with TaiwlindCss. Subscribe
-                    to our Youtube channel for more ...
-                  </p>
+                  <p class="text-sm text-gray-600">ສາຂາ </p>
                 </div>
 
                 <div class="m-2">
@@ -325,12 +298,191 @@ export default function Experience() {
                   loading="lazy"
                 />
                 <div class="p-2">
+                  <h2 class="font-bold text-lg mb-2 ">ທ ຄໍາສະໃໝ ຄຳແກ້ວ</h2>
+
+                  <p class="text-sm text-gray-600">
+                    ໜ້າທີ່ຮັບຜິດຊອບ: ຜູ້ຄຸມຖ່າຍທອດສົດ
+                  </p>
+                  <p class="text-sm text-gray-600">ຄະນະວິທະຍາສາດທຳມະຊາດ</p>
+                  <p class="text-sm text-gray-600">
+                    ສາຂາ ພັດທະນາໂປຼແກຼມຄອມພິວເຕີ້
+                  </p>
+                </div>
+
+                <div class="m-2">
+                  <a
+                    role="button"
+                    href="#"
+                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
+                  >
+                    Learn More
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="">
+              <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl mr-2.5">
+                <img
+                  src={Frontend}
+                  alt=""
+                  className="w-full h-60 object-cover rounded-lg sm:h-52 sm:col-span-2 lg:col-span-full"
+                  loading="lazy"
+                />
+                <div class="p-2">
+                  <h2 class="font-bold text-lg mb-2 ">ທ ດາກິ ສາຍສຳພັນ</h2>
+
+                  <p class="text-sm text-gray-600">ໜ້າທີ່ຮັບຜິດຊອບ: </p>
+                  <p class="text-sm text-gray-600">ຄະນະອັກສອນສາດ</p>
+                  <p class="text-sm text-gray-600">ສາຂາ ສື່ສານມວນຊົນ</p>
+                </div>
+
+                <div class="m-2">
+                  <a
+                    role="button"
+                    href="#"
+                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
+                  >
+                    Learn More
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="">
+              <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl mr-2.5">
+                <img
+                  src={Frontend}
+                  alt=""
+                  className="w-full h-60 object-cover rounded-lg sm:h-52 sm:col-span-2 lg:col-span-full"
+                  loading="lazy"
+                />
+                <div class="p-2">
+                  <h2 class="font-bold text-lg mb-2 ">ນ ຈັນທິພາ ແກ້ວວັນໄຊ</h2>
+
+                  <p class="text-sm text-gray-600">ໜ້າທີ່ຮັບຜິດຊອບ: </p>
+                  <p class="text-sm text-gray-600">ຄະນະອັກສອນສາດ</p>
+                  <p class="text-sm text-gray-600">ສາຂາ ສື່ສານມວນຊົນ</p>
+                </div>
+
+                <div class="m-2">
+                  <a
+                    role="button"
+                    href="#"
+                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
+                  >
+                    Learn More
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="">
+              <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl mr-2.5">
+                <img
+                  src={Frontend}
+                  alt=""
+                  className="w-full h-60 object-cover rounded-lg sm:h-52 sm:col-span-2 lg:col-span-full"
+                  loading="lazy"
+                />
+                <div class="p-2">
+                  <h2 class="font-bold text-lg mb-2 ">ທ ພິທັກ ເສນຄຳບູ່</h2>
+
+                  <p class="text-sm text-gray-600">ໜ້າທີ່ຮັບຜິດຊອບ: </p>
+                  <p class="text-sm text-gray-600">
+                    ຄະນະເສດຖະສາດບໍລິຫານທຸລະກິດ
+                  </p>
+                  <p class="text-sm text-gray-600">ສາຂາ </p>
+                </div>
+
+                <div class="m-2">
+                  <a
+                    role="button"
+                    href="#"
+                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
+                  >
+                    Learn More
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="">
+              <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl mr-2.5">
+                <img
+                  src={Frontend}
+                  alt=""
+                  className="w-full h-60 object-cover rounded-lg sm:h-52 sm:col-span-2 lg:col-span-full"
+                  loading="lazy"
+                />
+                <div class="p-2">
+                  <h2 class="font-bold text-lg mb-2 ">ນ ນໍ້າເຜິ້ງ ອາໄພ</h2>
+
+                  <p class="text-sm text-gray-600">ໜ້າທີ່ຮັບຜິດຊອບ: </p>
+                  <p class="text-sm text-gray-600">
+                    ຄະນະເສດຖະສາດບໍລິຫານທຸລະກິດ
+                  </p>
+                  <p class="text-sm text-gray-600">ສາຂາ </p>
+                </div>
+
+                <div class="m-2">
+                  <a
+                    role="button"
+                    href="#"
+                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
+                  >
+                    Learn More
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="">
+              <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl mr-2.5">
+                <img
+                  src={Frontend}
+                  alt=""
+                  className="w-full h-60 object-cover rounded-lg sm:h-52 sm:col-span-2 lg:col-span-full"
+                  loading="lazy"
+                />
+                <div class="p-2">
+                  <h2 class="font-bold text-lg mb-2 ">ທ ວິເສດ ແສງດາລາ</h2>
+
+                  <p class="text-sm text-gray-600">
+                    ໜ້າທີ່ຮັບຜິດຊອບ: Graphic design
+                  </p>
+                  <p class="text-sm text-gray-600">ຄະນະວິທະຍາສາດທຳມະຊາດ</p>
+                  <p class="text-sm text-gray-600">
+                    ສາຂາ ພັດທະນາໂປຼແກຼມຄອມພິວເຕີ້
+                  </p>
+                  <p class="text-sm text-gray-600">ຜູ້ສ້າງເວັບໄຊ</p>
+                </div>
+
+                <div class="m-2">
+                  <a
+                    role="button"
+                    href="#"
+                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
+                  >
+                    Learn More
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="">
+              <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl mr-2.5">
+                <img
+                  src={Frontend}
+                  alt=""
+                  className="w-full h-60 object-cover rounded-lg sm:h-52 sm:col-span-2 lg:col-span-full"
+                  loading="lazy"
+                />
+                <div class="p-2">
                   <h2 class="font-bold text-lg mb-2 ">ທ ສຸກທັນວາ ມ້າວປະເສີດ</h2>
 
                   <p class="text-sm text-gray-600">
-                    Simple Yet Beautiful Card Design with TaiwlindCss. Subscribe
-                    to our Youtube channel for more ...
+                    ໜ້າທີ່ຮັບຜິດຊອບ: Graphic design
                   </p>
+                  <p class="text-sm text-gray-600">ຄະນະວິທະຍາສາດທຳມະຊາດ</p>
+                  <p class="text-sm text-gray-600">
+                    ສາຂາ ພັດທະນາໂປຼແກຼມຄອມພິວເຕີ້
+                  </p>
+                  <p class="text-sm text-gray-600">ຜູ້ສ້າງເວັບໄຊ</p>
                 </div>
 
                 <div class="m-2">
@@ -346,90 +498,6 @@ export default function Experience() {
             </div>
             <div className="">
               <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl mr-2.5">
-                <img
-                  src={Frontend}
-                  alt=""
-                  className="w-full h-60 object-cover rounded-lg sm:h-52 sm:col-span-2 lg:col-span-full"
-                  loading="lazy"
-                />
-                <div class="p-2">
-                  <h2 class="font-bold text-lg mb-2 ">Heading</h2>
-
-                  <p class="text-sm text-gray-600">
-                    Simple Yet Beautiful Card Design with TaiwlindCss. Subscribe
-                    to our Youtube channel for more ...
-                  </p>
-                </div>
-
-                <div class="m-2">
-                  <a
-                    role="button"
-                    href="#"
-                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
-                  >
-                    Learn More
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div className="">
-              <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl mr-2.5">
-                <img
-                  src={Frontend}
-                  alt=""
-                  className="w-full h-60 object-cover rounded-lg sm:h-52 sm:col-span-2 lg:col-span-full"
-                  loading="lazy"
-                />
-                <div class="p-2">
-                  <h2 class="font-bold text-lg mb-2 ">Heading</h2>
-
-                  <p class="text-sm text-gray-600">
-                    Simple Yet Beautiful Card Design with TaiwlindCss. Subscribe
-                    to our Youtube channel for more ...
-                  </p>
-                </div>
-
-                <div class="m-2">
-                  <a
-                    role="button"
-                    href="#"
-                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
-                  >
-                    Learn More
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div className="">
-              <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl mr-2.5">
-                <img
-                  src={Frontend}
-                  alt=""
-                  className="w-full h-60 object-cover rounded-lg sm:h-52 sm:col-span-2 lg:col-span-full"
-                  loading="lazy"
-                />
-                <div class="p-2">
-                  <h2 class="font-bold text-lg mb-2 ">Heading</h2>
-
-                  <p class="text-sm text-gray-600">
-                    Simple Yet Beautiful Card Design with TaiwlindCss. Subscribe
-                    to our Youtube channel for more ...
-                  </p>
-                </div>
-
-                <div class="m-2">
-                  <a
-                    role="button"
-                    href="#"
-                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
-                  >
-                    Learn More
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div className="">
-              <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl">
                 <img
                   src={Frontend}
                   alt=""
