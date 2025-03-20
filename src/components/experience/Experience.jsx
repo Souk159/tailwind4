@@ -20,7 +20,7 @@ export default function Experience() {
             >
               ມີທັງໝົດ 3 ທ່ານ
             </p>
-            <div className="flex flex-row">
+            <div className="flex flex-row overflow-x-auto">
               <div className="">
                 <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl mr-2.5">
                   <img
