@@ -31,22 +31,13 @@ export default function Experience() {
                     loading="lazy"
                   />
                   <div class="p-2">
-                    <h2 class="font-bold text-lg mb-2 ">Heading</h2>
+                    <h2 class="font-bold text-lg mb-2 ">
+                      ທ່ານ ພູວຽງ ແສນສົມບັດ
+                    </h2>
 
                     <p class="text-sm text-gray-600">
-                      Simple Yet Beautiful Card Design with TaiwlindCss.
-                      Subscribe to our Youtube channel for more ...
+                      ຫົວໜ້າພະແນກຂ່າວສານ ແລະ ປະຊາສຳພັນ
                     </p>
-                  </div>
-
-                  <div class="m-2">
-                    <a
-                      role="button"
-                      href="#"
-                      class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
-                    >
-                      Learn More
-                    </a>
                   </div>
                 </div>
               </div>
@@ -59,22 +50,13 @@ export default function Experience() {
                     loading="lazy"
                   />
                   <div class="p-2">
-                    <h2 class="font-bold text-lg mb-2 ">Heading</h2>
+                    <h2 class="font-bold text-lg mb-2 ">
+                      ທ່ານ ນາງ ພູວັນ ນ້ອຍສິນນະລັກ
+                    </h2>
 
                     <p class="text-sm text-gray-600">
-                      Simple Yet Beautiful Card Design with TaiwlindCss.
-                      Subscribe to our Youtube channel for more ...
+                      ຮອງຫົວໜ້າພະແນກຂ່າວສານ ແລະ ປະຊາສຳພັນ
                     </p>
-                  </div>
-
-                  <div class="m-2">
-                    <a
-                      role="button"
-                      href="#"
-                      class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
-                    >
-                      Learn More
-                    </a>
                   </div>
                 </div>
               </div>
@@ -87,22 +69,11 @@ export default function Experience() {
                     loading="lazy"
                   />
                   <div class="p-2">
-                    <h2 class="font-bold text-lg mb-2 ">Heading</h2>
+                    <h2 class="font-bold text-lg mb-2 ">
+                      ທ່ານ ນາງ ແວວປະກາຍ ພິລາວົງ
+                    </h2>
 
-                    <p class="text-sm text-gray-600">
-                      Simple Yet Beautiful Card Design with TaiwlindCss.
-                      Subscribe to our Youtube channel for more ...
-                    </p>
-                  </div>
-
-                  <div class="m-2">
-                    <a
-                      role="button"
-                      href="#"
-                      class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
-                    >
-                      Learn More
-                    </a>
+                    <p class="text-sm text-gray-600">ພະນັກງານວິຊາການ</p>
                   </div>
                 </div>
               </div>
@@ -183,16 +154,6 @@ export default function Experience() {
                   <p class="text-sm text-gray-600">ຄະນະວິທະຍາສາດສັງຄົມ</p>
                   <p class="text-sm text-gray-600">ສາຂາ </p>
                 </div>
-
-                <div class="m-2">
-                  <a
-                    role="button"
-                    href="#"
-                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
-                  >
-                    Learn More
-                  </a>
-                </div>
               </div>
             </div>
             <div className="">
@@ -212,16 +173,6 @@ export default function Experience() {
                   </p>
                   <p class="text-sm text-gray-600">ສາຂາ </p>
                 </div>
-
-                <div class="m-2">
-                  <a
-                    role="button"
-                    href="#"
-                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
-                  >
-                    Learn More
-                  </a>
-                </div>
               </div>
             </div>
             <div className="">
@@ -240,16 +191,6 @@ export default function Experience() {
                     to our Youtube channel for more ...
                   </p>
                 </div>
-
-                <div class="m-2">
-                  <a
-                    role="button"
-                    href="#"
-                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
-                  >
-                    Learn More
-                  </a>
-                </div>
               </div>
             </div>
             <div className="">
@@ -267,16 +208,6 @@ export default function Experience() {
                     Simple Yet Beautiful Card Design with TaiwlindCss. Subscribe
                     to our Youtube channel for more ...
                   </p>
-                </div>
-
-                <div class="m-2">
-                  <a
-                    role="button"
-                    href="#"
-                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
-                  >
-                    Learn More
-                  </a>
                 </div>
               </div>
             </div>
@@ -308,16 +239,6 @@ export default function Experience() {
                     ສາຂາ ພັດທະນາໂປຼແກຼມຄອມພິວເຕີ້
                   </p>
                 </div>
-
-                <div class="m-2">
-                  <a
-                    role="button"
-                    href="#"
-                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
-                  >
-                    Learn More
-                  </a>
-                </div>
               </div>
             </div>
             <div className="">
@@ -335,16 +256,6 @@ export default function Experience() {
                   <p class="text-sm text-gray-600">ຄະນະອັກສອນສາດ</p>
                   <p class="text-sm text-gray-600">ສາຂາ ສື່ສານມວນຊົນ</p>
                 </div>
-
-                <div class="m-2">
-                  <a
-                    role="button"
-                    href="#"
-                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
-                  >
-                    Learn More
-                  </a>
-                </div>
               </div>
             </div>
             <div className="">
@@ -361,16 +272,6 @@ export default function Experience() {
                   <p class="text-sm text-gray-600">ໜ້າທີ່ຮັບຜິດຊອບ: </p>
                   <p class="text-sm text-gray-600">ຄະນະອັກສອນສາດ</p>
                   <p class="text-sm text-gray-600">ສາຂາ ສື່ສານມວນຊົນ</p>
-                </div>
-
-                <div class="m-2">
-                  <a
-                    role="button"
-                    href="#"
-                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
-                  >
-                    Learn More
-                  </a>
                 </div>
               </div>
             </div>
@@ -391,16 +292,6 @@ export default function Experience() {
                   </p>
                   <p class="text-sm text-gray-600">ສາຂາ </p>
                 </div>
-
-                <div class="m-2">
-                  <a
-                    role="button"
-                    href="#"
-                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
-                  >
-                    Learn More
-                  </a>
-                </div>
               </div>
             </div>
             <div className="">
@@ -419,16 +310,6 @@ export default function Experience() {
                     ຄະນະເສດຖະສາດບໍລິຫານທຸລະກິດ
                   </p>
                   <p class="text-sm text-gray-600">ສາຂາ </p>
-                </div>
-
-                <div class="m-2">
-                  <a
-                    role="button"
-                    href="#"
-                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
-                  >
-                    Learn More
-                  </a>
                 </div>
               </div>
             </div>
@@ -450,16 +331,15 @@ export default function Experience() {
                   <p class="text-sm text-gray-600">
                     ສາຂາ ພັດທະນາໂປຼແກຼມຄອມພິວເຕີ້
                   </p>
-                  <p class="text-sm text-gray-600">ຜູ້ສ້າງເວັບໄຊ</p>
                 </div>
 
                 <div class="m-2">
                   <a
                     role="button"
                     href="#"
-                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
+                    class="text-white bg-blue-950 px-3 py-1 rounded-md hover:bg-blue-950"
                   >
-                    Learn More
+                    ຜູ້ສ້າງເວັບໄຊ
                   </a>
                 </div>
               </div>
@@ -482,16 +362,15 @@ export default function Experience() {
                   <p class="text-sm text-gray-600">
                     ສາຂາ ພັດທະນາໂປຼແກຼມຄອມພິວເຕີ້
                   </p>
-                  <p class="text-sm text-gray-600">ຜູ້ສ້າງເວັບໄຊ</p>
                 </div>
 
                 <div class="m-2">
                   <a
                     role="button"
                     href="#"
-                    class="text-white bg-purple-600 px-3 py-1 rounded-md hover:bg-purple-700"
+                    class="text-white bg-blue-950 px-3 py-1 rounded-md hover:bg-blue-950"
                   >
-                    Learn More
+                    ຜູ້ສ້າງເວັບໄຊ
                   </a>
                 </div>
               </div>
