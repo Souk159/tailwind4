@@ -15,11 +15,8 @@ export default function Skills() {
             className="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1"
           >
             <h1 className="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-3xl">
-              ຫົວຂໍ້
+              ສະມາຊິກທີມທັງໝົດ
             </h1>
-            <p className="text-sm leading-4 font-medium text-white sm:text-slate-500 md:text-blue-900">
-              ທີມ
-            </p>
           </div>
           <div
             data-aos="fade-up"
