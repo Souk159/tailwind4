@@ -1,6 +1,8 @@
 import React from "react";
 import Frontend from "../../assets/team0.jpg";
-import team1 from "../../assets/team1.jpeg";
+import team1 from "../../assets/test.png";
+import team2g2 from "../../assets/team2g2.jpeg";
+import team1g3 from "../../assets/team1g3.jpeg";
 export default function Experience() {
   return (
     <div>
@@ -316,7 +318,7 @@ export default function Experience() {
             <div className="">
               <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl mr-2.5">
                 <img
-                  src={Frontend}
+                  src={team2g2}
                   alt=""
                   className="w-full h-60 object-cover rounded-lg sm:h-52 sm:col-span-2 lg:col-span-full"
                   loading="lazy"
@@ -347,7 +349,7 @@ export default function Experience() {
             <div className="">
               <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl mr-2.5">
                 <img
-                  src={Frontend}
+                  src={team1}
                   alt=""
                   className="w-full h-60 object-cover rounded-lg sm:h-52 sm:col-span-2 lg:col-span-full"
                   loading="lazy"
@@ -400,6 +402,32 @@ export default function Experience() {
                   >
                     Learn More
                   </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <h1
+            data-aos="fade-up"
+            data-aos-delay="300"
+            className="sm:text-3xl text-3xl font-bold title-font mb-4 text-gray-900 mt-12"
+          >
+            GEN3
+          </h1>
+          <div className="flex flex-row overflow-x-auto ">
+            <div className="">
+              <div className="w-60 p-2 bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2xl mr-2.5">
+                <img
+                  src={team1g3}
+                  alt=""
+                  className="w-full h-60 object-cover rounded-lg sm:h-52 sm:col-span-2 lg:col-span-full"
+                  loading="lazy"
+                />
+                <div class="p-2">
+                  <h2 class="font-bold text-lg mb-2 ">ທ ບຸນປະສົງ ເດດສາວົງ</h2>
+
+                  <p class="text-sm text-gray-600">ໜ້າທີ່ຮັບຜິດຊອບ:</p>
+                  <p class="text-sm text-gray-600">ຄະນະ</p>
+                  <p class="text-sm text-gray-600">ສາຂາ</p>
                 </div>
               </div>
             </div>
